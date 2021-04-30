@@ -1,0 +1,11 @@
+{
+    "name": "Gluo Terraform CI",
+    "description": "Gluo TF CI workflow template.",
+    "iconName": "gluo-logo",
+    "categories": [
+        "HCL"
+    ],
+    "filePatterns": [
+        "^.tf"
+    ]
+}
