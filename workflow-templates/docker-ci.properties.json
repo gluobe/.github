@@ -1,0 +1,11 @@
+{
+    "name": "Gluo Docker CI",
+    "description": "Gluo Docker CI workflow template.",
+    "iconName": "gluo-icon",
+    "categories": [
+        "Dockerfile"
+    ],
+    "filePatterns": [
+        "Dockerfile"
+    ]
+}
